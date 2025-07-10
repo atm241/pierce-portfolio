@@ -120,27 +120,16 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Assistant Shipping Manager and Data Associate",
-    company_name: "Math Teachers Press",
-    icon: mathTeachersPress,
-    iconBg: "#383E56",
-    date: "May 2016 - August 2021",
-    points: [
-      "Managed the receipts of over 1,000 orders, assembled the orders of up to 20 items per order, combined and shipped of over 1,500 individuals. Track and record data received from various school districts on both pre and post-assessments.",
-      "Created Excel spreadsheets and reports to be used by the Board of Directors to set pricing and margin targets and consolidated quarterly reporting.",
-      "Architected and Developed a database for tracking order and shipping data",
-    ],
-  },
-  {
-    title: "Customer Service Representative",
-    company_name: "MicroCenter",
-    icon: microcenter,
+    title: "Full stack Developer",
+    company_name: "Ameriprise Financial",
+    icon: ameriprise,
     iconBg: "#E6DEDD",
-    date: "May 2018 - June 2019",
+    date: "Jan 2023 - Present",
     points: [
-      "Front-line Customer Service Representative worked to exceed the expectations of the customers in a fast-paced, technology-focused environment.",
-      "Stayed informed and up-to-date with the current technological landscape to provide customers with recommendations for their technology needs.",
-      "Proficency in sales, utilizing contextualized knowledge to help provide customers with personalized product suggestions.",
+      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
   {
@@ -157,16 +146,27 @@ const experiences = [
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Ameriprise Financial",
-    icon: ameriprise,
+    title: "Customer Service Representative",
+    company_name: "MicroCenter",
+    icon: microcenter,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "May 2018 - June 2019",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Front-line Customer Service Representative worked to exceed the expectations of the customers in a fast-paced, technology-focused environment.",
+      "Stayed informed and up-to-date with the current technological landscape to provide customers with recommendations for their technology needs.",
+      "Proficency in sales, utilizing contextualized knowledge to help provide customers with personalized product suggestions.",
+    ],
+  },
+  {
+    title: "Assistant Shipping Manager and Data Associate",
+    company_name: "Math Teachers Press",
+    icon: mathTeachersPress,
+    iconBg: "#383E56",
+    date: "May 2016 - August 2021",
+    points: [
+      "Managed the receipts of over 1,000 orders, assembled the orders of up to 20 items per order, combined and shipped of over 1,500 individuals. Track and record data received from various school districts on both pre and post-assessments.",
+      "Created Excel spreadsheets and reports to be used by the Board of Directors to set pricing and margin targets and consolidated quarterly reporting.",
+      "Architected and Developed a database for tracking order and shipping data",
     ],
   },
 ];
