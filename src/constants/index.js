@@ -123,7 +123,7 @@ const experiences = [
     title: "Full stack Developer",
     company_name: "Ameriprise Financial",
     icon: ameriprise,
-    iconBg: "#E6DEDD",
+    iconBg: "#ffffff",
     date: "Jan 2023 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
@@ -136,7 +136,7 @@ const experiences = [
     title: "Teacher",
     company_name: "Tech Academy",
     icon: techAcademy,
-    iconBg: "#E6DEDD",
+    iconBg: "#ffffff",
     date: "May 2021 - August 2021",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
@@ -149,7 +149,7 @@ const experiences = [
     title: "Customer Service Representative",
     company_name: "MicroCenter",
     icon: microcenter,
-    iconBg: "#E6DEDD",
+    iconBg: "#ffffff",
     date: "May 2018 - June 2019",
     points: [
       "Front-line Customer Service Representative worked to exceed the expectations of the customers in a fast-paced, technology-focused environment.",
@@ -161,7 +161,7 @@ const experiences = [
     title: "Assistant Shipping Manager and Data Associate",
     company_name: "Math Teachers Press",
     icon: mathTeachersPress,
-    iconBg: "#E6DEDD",
+    iconBg: "#ffffff",
     date: "May 2016 - August 2021",
     points: [
       "Managed the receipts of over 1,000 orders, assembled the orders of up to 20 items per order, combined and shipped of over 1,500 individuals. Track and record data received from various school districts on both pre and post-assessments.",

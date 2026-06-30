@@ -25,10 +25,10 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-import ameriprise from "./company/ameriprise.svg";
-import microcenter from "./company/microcenter.svg";
-import mathTeachersPress from "./company/math-teachers-press.svg";
-import techAcademy from "./company/tech-academy.svg";
+import ameriprise from "./company/ameriprise.png";
+import microcenter from "./company/microcenter.png";
+import mathTeachersPress from "./company/math-teachers-press.png";
+import techAcademy from "./company/tech-academy.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
